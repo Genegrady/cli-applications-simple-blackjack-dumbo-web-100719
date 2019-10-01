@@ -5,7 +5,7 @@ end
 
 def deal_card(card)
   # code #deal_card here
-  
+  card(rand) 0..
 end
 
 def display_card_total
