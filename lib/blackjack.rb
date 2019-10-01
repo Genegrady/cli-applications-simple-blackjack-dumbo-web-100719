@@ -49,7 +49,6 @@ end
 
 def invalid_command
   puts "Please enter a valid command" 
-  
 end
 
 #####################################################
@@ -58,5 +57,6 @@ end
 
 def runner
   # code runner here
+  welcome
 end
     
