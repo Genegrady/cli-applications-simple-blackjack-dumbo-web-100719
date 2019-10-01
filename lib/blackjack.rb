@@ -1,4 +1,4 @@
-def welcome
+def welcome($stdout)
   # code #welcome here
   print "Welcome to the Blackjack Table"
 end
